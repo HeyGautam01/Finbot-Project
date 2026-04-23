@@ -48,5 +48,6 @@ Improving accessibility and responsiveness
 ---
 
 ## 🙋‍♀️ Author
-Janvi
+Janvi & Gautam
+
 

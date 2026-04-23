@@ -47,7 +47,7 @@ const Chat = ({ chatId }) => {
           where("chatId", "==", chatId),
           orderBy("timestamp", "asc")
         );
-      
+
         const unsub = onSnapshot(
           q, 
           (snapshot) => {
